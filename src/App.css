@@ -39,6 +39,7 @@
 .list-group-item-actions {
   width: 10%;
   text-align: right;
+  min-width: 60px;
 }
 
 .list-group-item-actions span {
